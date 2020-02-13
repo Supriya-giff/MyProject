@@ -2,7 +2,4 @@ Class Test{
   public static void main(String[] arg){
    system.out.print("Hello!!!");
 }
- public void mainMethod(){
-   system.out.println('new method!!');
-}
 }
