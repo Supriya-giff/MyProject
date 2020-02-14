@@ -2,6 +2,8 @@ Class Test{
   public static void main(String[] arg){
    system.out.print("Hello!!!");
 }
+
+   // changed by User2 for getting result
 	public static void displayHello(){
 	 system.out('display hello');
 	}
