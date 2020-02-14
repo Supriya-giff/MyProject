@@ -2,7 +2,7 @@ Class Test{
   public static void main(String[] arg){
    system.out.print("Hello!!!");
 }
-	displayHello(){
+	public static void displayHello(){
 	 system.out('display hello');
 	}
 }
